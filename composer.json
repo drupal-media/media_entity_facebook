@@ -1,5 +1,5 @@
 {
-    "name": "drupal/media_entity_facebok",
+    "name": "drupal/media_entity_facebook",
     "description": "Provides a media entity facebook.",
     "type": "drupal-module",
     "license": "GPL-2.0+"
